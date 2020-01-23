@@ -1,0 +1,13 @@
+body {
+    background-color: aliceblue;
+}
+
+.header {
+    border: 3px solid black;
+    margin: 3em 5em 2em 1em;
+    text-align: center;
+}
+
+.well {
+    margin: 1em 4em 1em 1em;
+}
